@@ -18,7 +18,7 @@ Chaque module : un onglet **Étudier** (explication du temps + tableaux à code 
 
 **Examen final** 🎓 — un test d'entraînement qui pioche **aléatoirement** dans toute la grammaire et la conjugaison : questions à choix multiple, conjugaisons à taper, et **phrases complètes à former**. Les questions sont différentes à chaque passage, avec une explication après chaque réponse. Trois formats : rapide (10), moyen (20), long (40).
 
-**Tuteur IA** 🤖 — un bouton flottant ouvre un chat avec une IA qui répond **uniquement** sur la grammaire et la conjugaison du français (elle refuse poliment tout le reste). Elle s'adapte à la **section où se trouve l'élève** et explique les règles en français. Propulsé par un agent n8n (OpenAI) ; aucune clé n'est exposée côté navigateur.
+**Lya, le tuteur IA** 🤖 — un bouton flottant ouvre un chat avec **Lya**, une IA qui répond **uniquement** sur la grammaire et la conjugaison du français (elle refuse poliment tout le reste). Elle est **bilingue** : si l'élève écrit en **espagnol**, elle répond en espagnol puis ajoute la **traduction en français** ; si l'élève écrit en français, elle répond en français. Elle s'adapte à la **section où se trouve l'élève**. Propulsée par un agent n8n (OpenAI) ; aucune clé n'est exposée côté navigateur.
 
 **Vocabulaire par thèmes** — 1500 mots les plus courants (100 par thème), classés en 15 contextes
 ✨ Essentiels · 🍴 Cuisine · ⚽ Sport · 👪 Famille · 🧍 Corps · 👕 Vêtements · 🏠 Maison · 🎨 Couleurs · 🔢 Nombres · 📅 Calendrier · ☀️ Météo · 🐶 Animaux · 🏙️ Ville & transports · ⚡ Verbes courants · 🙂 Adjectifs & émotions
