@@ -16,6 +16,8 @@ Application web interactive pour apprendre le **français langue seconde** (inte
 
 Chaque module : un onglet **Étudier** (explication du temps + tableaux à code couleur) et un onglet **S'exercer** (quiz de 10, 20 ou toutes les questions, avec une explication après chaque réponse).
 
+**Examen final** 🎓 — un test d'entraînement qui pioche **aléatoirement** dans toute la grammaire et la conjugaison : questions à choix multiple, conjugaisons à taper, et **phrases complètes à former**. Les questions sont différentes à chaque passage, avec une explication après chaque réponse. Trois formats : rapide (10), moyen (20), long (40).
+
 **Vocabulaire par thèmes** — 1500 mots les plus courants (100 par thème), classés en 15 contextes
 ✨ Essentiels · 🍴 Cuisine · ⚽ Sport · 👪 Famille · 🧍 Corps · 👕 Vêtements · 🏠 Maison · 🎨 Couleurs · 🔢 Nombres · 📅 Calendrier · ☀️ Météo · 🐶 Animaux · 🏙️ Ville & transports · ⚡ Verbes courants · 🙂 Adjectifs & émotions
 
