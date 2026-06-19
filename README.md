@@ -16,7 +16,7 @@ Application web interactive pour apprendre le **français langue seconde** (inte
 
 Chaque module : un onglet **Étudier** (explication du temps + tableaux à code couleur) et un onglet **S'exercer** (quiz de 10, 20 ou toutes les questions, avec une explication après chaque réponse).
 
-**Vocabulaire par thèmes** — 360 mots les plus courants, classés en 15 contextes
+**Vocabulaire par thèmes** — 1500 mots les plus courants (100 par thème), classés en 15 contextes
 ✨ Essentiels · 🍴 Cuisine · ⚽ Sport · 👪 Famille · 🧍 Corps · 👕 Vêtements · 🏠 Maison · 🎨 Couleurs · 🔢 Nombres · 📅 Calendrier · ☀️ Météo · 🐶 Animaux · 🏙️ Ville & transports · ⚡ Verbes courants · 🙂 Adjectifs & émotions
 
 Chaque thème : **Cartes** (flashcards FR → ES), **Liste** (tableau complet) et **Quiz** généré automatiquement dans les deux sens.
